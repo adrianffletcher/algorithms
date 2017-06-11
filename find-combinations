@@ -1,0 +1,2 @@
+#!/bin/bash
+java -cp ./out/artifacts/algorithms.jar com.example.CombinatorMain $1
